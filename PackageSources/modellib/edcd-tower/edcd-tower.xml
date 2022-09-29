@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{85ba30da-258d-44a4-a457-da57f4572208}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="edcd-tower_LOD00.gltf"/>
+	</LODS>
+</ModelInfo>

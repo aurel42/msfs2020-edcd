@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage ReleaseNotes="PackageDefinitions\charliebravo-airport-edcd-cottbus-drewitz\ReleaseNotes.xml" Version="0.1.6">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Cottbus-Drewitz</Title>
+		<Manufacturer/>
+		<Creator>aurel</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\charliebravo-airport-edcd-cottbus-drewitz\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\charliebravo-airport-edcd-cottbus-drewitz\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="aerial">
+			<Type>CGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\aerial\</AssetDir>
+			<OutputDir>CGL\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="mesh">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\mesh\</AssetDir>
+			<OutputDir>Scenery\aurel\EDCD\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="modellib">
+			<Type>ModelLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\modellib\</AssetDir>
+			<OutputDir>Scenery\airport-edcd-cottbus-drewitz\modellib\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="scene">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\scene\</AssetDir>
+			<OutputDir>Scenery\aurel\EDCD\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="services">
+			<Type>SPB</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\services\</AssetDir>
+			<OutputDir>AirportServices\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

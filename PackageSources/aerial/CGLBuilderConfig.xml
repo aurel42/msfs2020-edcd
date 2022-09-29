@@ -1,0 +1,3 @@
+<CGLBuilder>
+	<CGL type="SecondaryAerialImage" input="Tiles" directory="tiles"/>
+</CGLBuilder>

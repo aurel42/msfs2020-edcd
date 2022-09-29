@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{f1dd4dbb-cc40-470c-8849-636d0448ab37}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="edcd-garage_LOD00.gltf"/>
+	</LODS>
+</ModelInfo>

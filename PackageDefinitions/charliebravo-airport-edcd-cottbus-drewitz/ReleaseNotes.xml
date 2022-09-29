@@ -1,0 +1,23 @@
+<ReleaseNotes>
+	<ReleaseNote Version="0.1.4" Date="2022-9-23">updated terminal building
+</ReleaseNote>
+	<ReleaseNote Version="0.1.6" Date="0-1-1">added lights to terminal building interior
+added flag posts, climate 
+added lights to car parking
+added lights to fueling area
+added lights in front of terminal building
+added G1a garage bunkers
+</ReleaseNote>
+	<ReleaseNote Version="0.1.3" Date="2022-9-20">added terminal building and tower
+added mesh for runways
+added added aerial for rwy 25
+added custom solar panels
+</ReleaseNote>
+	<ReleaseNote Version="0.1.5" Date="0-1-1">added taxiways and parking spots
+placed apron surfaces instead of taxiways, runway
+added taxiway signs
+added GDF-12 shelters
+added fences where visible on aerial image
+</ReleaseNote>
+</ReleaseNotes>
+

@@ -1,0 +1,16 @@
+{
+  "locations": [
+    {
+      "type": "airport",
+      "airportCode": "EDCD",
+      "latitude": 51.88397051407576,
+      "longitude": 14.53251346762835
+    },
+    {
+      "type": "airport",
+      "airportCode": "EDCD",
+      "latitude": 51.88397051407576,
+      "longitude": 14.53251346762835
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+LOD00/100
+no changes
+26k▲
+
+LOD01/020
+terminal building:
+Clean Up / Merge by Distance 0.09m
+Clean Up / Delete Loose
+15k▲
+
+LOD02/000
+tower base:
+Clean Up / Merge by Distance 1.67m
+Clean Up / Delete Loose
+tower top:
+Clean Up / Merge by Distance 0.64m
+Clean Up / Delete Loose
+terminal building:
+Clean Up / Degenerate Dissolve 0.36m
+Clean Up / Delete Loose
+8k▲

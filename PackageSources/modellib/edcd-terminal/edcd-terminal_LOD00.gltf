@@ -1381,7 +1381,7 @@
                         0.7573685646057129,
                         0.5582472085952759
                     ],
-                    "intensity" : 10,
+                    "intensity" : 40,
                     "cone_angle" : 360,
                     "has_symmetry" : true,
                     "flash_frequency" : 0,
@@ -1412,7 +1412,7 @@
                         0.7573685646057129,
                         0.5582472085952759
                     ],
-                    "intensity" : 20,
+                    "intensity" : 40,
                     "cone_angle" : 360,
                     "has_symmetry" : true,
                     "flash_frequency" : 0,
@@ -1443,7 +1443,7 @@
                         0.7573685646057129,
                         0.5582472085952759
                     ],
-                    "intensity" : 20,
+                    "intensity" : 40,
                     "cone_angle" : 360,
                     "has_symmetry" : true,
                     "flash_frequency" : 0,
@@ -1474,7 +1474,7 @@
                         0.7573685646057129,
                         0.5582472085952759
                     ],
-                    "intensity" : 20,
+                    "intensity" : 40,
                     "cone_angle" : 360,
                     "has_symmetry" : true,
                     "flash_frequency" : 0,
@@ -1505,7 +1505,7 @@
                         0.7573685646057129,
                         0.5582472085952759
                     ],
-                    "intensity" : 10,
+                    "intensity" : 40,
                     "cone_angle" : 360,
                     "has_symmetry" : true,
                     "flash_frequency" : 0,
@@ -1536,7 +1536,7 @@
                         0.7573685646057129,
                         0.5582472085952759
                     ],
-                    "intensity" : 10,
+                    "intensity" : 40,
                     "cone_angle" : 360,
                     "has_symmetry" : true,
                     "flash_frequency" : 0,
@@ -1567,7 +1567,7 @@
                         0.7605239152908325,
                         0.5583405494689941
                     ],
-                    "intensity" : 10,
+                    "intensity" : 40,
                     "cone_angle" : 360,
                     "has_symmetry" : true,
                     "flash_frequency" : 0,
@@ -1792,7 +1792,7 @@
                         0.7573685646057129,
                         0.5582472085952759
                     ],
-                    "intensity" : 10,
+                    "intensity" : 40,
                     "cone_angle" : 360,
                     "has_symmetry" : true,
                     "flash_frequency" : 0,
@@ -2049,9 +2049,9 @@
         },
         {
             "emissiveFactor" : [
-                0.800000011920929,
-                0.6088287234306335,
-                0.4473576545715332
+                0.5,
+                0.435812771320343,
+                0.381541907787323
             ],
             "name" : "EDCD opaque glass",
             "pbrMetallicRoughness" : {

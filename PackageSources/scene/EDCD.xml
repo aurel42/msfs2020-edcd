@@ -192,7 +192,7 @@
 		<LibraryObject name="{F1DD4DBB-CC40-470C-8849-636D0448AB37}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: edcd-shelter-->
-	<SceneryObject displayName="edcd-shelter (copy 4)" parentGroupID="7" groupIndex="56" lat="51.88251589999086" lon="14.52121612744120" alt="-7.65333055709138" pitch="0.003039" bank="-0.003039" heading="-13.164329" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject displayName="edcd-shelter (copy 4)" parentGroupID="7" groupIndex="56" lat="51.88251589999086" lon="14.52121612744120" alt="-84.29565172864301" pitch="0.003039" bank="-0.003039" heading="-13.164329" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{7B111D28-DEB7-4000-8F5F-4362824AE6B3}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: edcd-shelter-->
@@ -204,7 +204,7 @@
 		<LibraryObject name="{7B111D28-DEB7-4000-8F5F-4362824AE6B3}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: edcd-shelter-->
-	<SceneryObject displayName="edcd-shelter (copy 5)" parentGroupID="7" groupIndex="57" lat="51.88297473022867" lon="14.52585355328329" alt="-7.34685047490181" pitch="0.003039" bank="-0.003039" heading="34.122160" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject displayName="edcd-shelter (copy 5)" parentGroupID="7" groupIndex="57" lat="51.88297473022867" lon="14.52585355328329" alt="-86.65587571893346" pitch="0.003039" bank="-0.003039" heading="34.122160" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{7B111D28-DEB7-4000-8F5F-4362824AE6B3}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: edcd-shelter-->
@@ -220,7 +220,7 @@
 		<LibraryObject name="{7B111D28-DEB7-4000-8F5F-4362824AE6B3}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: edcd-shelter-->
-	<SceneryObject displayName="edcd-shelter (copy 1)" parentGroupID="7" groupIndex="39" lat="51.88412293710057" lon="14.51909038794819" alt="-0.63140009902611" pitch="0.001544" bank="-0.001544" heading="-131.007946" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject displayName="edcd-shelter (copy 1)" parentGroupID="7" groupIndex="39" lat="51.88412293710057" lon="14.51909038794819" alt="-78.41337378653758" pitch="0.001544" bank="-0.001544" heading="-131.007946" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{7B111D28-DEB7-4000-8F5F-4362824AE6B3}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: edcd-shelter-->
@@ -280,11 +280,11 @@
 		<LibraryObject name="{7B111D28-DEB7-4000-8F5F-4362824AE6B3}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: edcd-shelter-->
-	<SceneryObject displayName="edcd-shelter (copy 7)" parentGroupID="7" groupIndex="49" lat="51.89657916992600" lon="14.54256892022740" alt="-6.70047659596864" pitch="0.003039" bank="-0.003039" heading="152.256337" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject displayName="edcd-shelter (copy 7)" parentGroupID="7" groupIndex="49" lat="51.89657916992600" lon="14.54256892022740" alt="-84.77508577444310" pitch="0.003039" bank="-0.003039" heading="152.256337" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{7B111D28-DEB7-4000-8F5F-4362824AE6B3}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: edcd-shelter-->
-	<SceneryObject displayName="edcd-shelter (copy 8)" parentGroupID="7" groupIndex="48" lat="51.89662683894571" lon="14.54182789662203" alt="-6.63552660119004" pitch="0.003039" bank="-0.003039" heading="151.010100" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject displayName="edcd-shelter (copy 8)" parentGroupID="7" groupIndex="48" lat="51.89662683894571" lon="14.54182789662203" alt="-86.02983373878510" pitch="0.003039" bank="-0.003039" heading="151.010100" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{7B111D28-DEB7-4000-8F5F-4362824AE6B3}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: edcd-terminal-->

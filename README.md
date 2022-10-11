@@ -4,8 +4,8 @@ This scenery project for Microsoft Flight Simulator is an attempt to create an a
 A big THANK YOU to all the people and organizations who provided invaluable help in one form or another, especially:
 - Andreas Dietrich
 - Federico "mamu82" Pinotti & the patrons of the [mamudesign Discord server](https://discord.gg/v8SCwtnskh)
-- PuffinFlight
 - TurtleTank1997
+- Manfred "bosun" Müller
 - Deutsche Flugsicherung (DFS)
 - [Landesvermessung und Geobasisinformation Brandenburg](https://geobasis-bb.de/)
 

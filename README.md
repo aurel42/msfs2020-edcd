@@ -18,6 +18,10 @@ A big THANK YOU to all the people and organizations who provided invaluable help
 - beacon
 - LOD
 - collision boxes
+- DME CDD (51.88746614487165, 14.532111774252629, 89m)
+- non-precision instrument approach rwy 25
+- models for DME, NDB, VDF antennae
+- fix the stupid glass of the stupid terminal building
 
 ## Optional libraries
 They improve the surroundings.
